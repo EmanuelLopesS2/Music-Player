@@ -16,28 +16,28 @@ A button to search for songs
 <u>A table with basicly everything below</u>
 
 <table name="playHistory"> <!-- or songHistory smt like dat-->
-    <li>
+    <tr>
         songID
-    </li>
-    <li>
+    </tr>
+    <tr>
         songTitle
-    </li>
-    <li>
+    </tr>
+    <tr>
         songArtist
-    </li>
-    <li>
+    </tr>
+    <tr>
         songAlbum
-    </li>
-    <li>
+    </tr>
+    <tr>
         songRate
-    </li>
-    <li>
+    </tr>
+    <tr>
         songTime <!-- maybe in seconds idk -->
-    </li>
-    <li>
+    </tr>
+    <tr>
         playedAt <!-- system time when the song was played -->
-    </li>
-    <li>
+    </tr>
+    <tr>
         songPlayedTimes
-    </li>
+    </tr>
 </table>
