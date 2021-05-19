@@ -10,6 +10,8 @@ Use a batabase to safe information for me to steal and sell it to facebook and g
 Show musics filtered by Title, Album, Artist, ...	<br>
 Show the title, album, artist, rating, ... while the track is playing	<br>
 A button to search for songs	<br>
+Maybe make a visualizer	<br>
+Import musics to queue	<br>
 
 
 <h1>Things to do in the database</h1>
