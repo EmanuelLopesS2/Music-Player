@@ -1,15 +1,15 @@
 <hr>
 <h1>Things to do:</h1>
 
-Show the Environment.UserName
-Minimalist style
-Easy to use
-Buttons to -> Play/Pause, Startover, Previous, Next, Volume control bar, and Progress song bar
-Different languages (need to know how to use xaml)
-Use a batabase to safe information for me to steal and sell it to facebook and google for 3cents
-Show musics filtered by Title, Album, Artist, ...
-Show the title, album, artist, rating, ... while the track is playing
-A button to search for songs
+Show the Environment.UserName	<br>
+Minimalist style	<br>
+Easy to use	<br>
+Buttons to -> Play/Pause, Startover, Previous, Next, Volume control bar, and Progress song bar	<br>
+Different languages (need to know how to use xaml)	<br>
+Use a batabase to safe information for me to steal and sell it to facebook and google for 3cents	<br>
+Show musics filtered by Title, Album, Artist, ...	<br>
+Show the title, album, artist, rating, ... while the track is playing	<br>
+A button to search for songs	<br>
 
 
 <h1>Things to do in the database</h1>
