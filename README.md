@@ -17,10 +17,10 @@ A button to search for songs	<br>
 <u>A table with basicly everything below</u>
 
 <table name="playHistory"> <!-- or songHistory smt like dat-->
-    <tr>
+    	<tr>
 		<th>songID</th>
-        <th>songTitle</th>
-        <th>songArtist</th>
+        	<th>songTitle</th>
+        	<th>songArtist</th>
 		<th>songAlbum</th>
 		<th>songRate</th>
 		<th>songTime</th> <!-- maybe in seconds idk -->
