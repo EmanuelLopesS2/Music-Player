@@ -35,27 +35,13 @@ A button to search for songs
 
 <table name="playHistory"> <!-- or songHistory smt like dat-->
     <tr>
-        <th>songID</th>
-    </tr>
-    <tr>
+		<th>songID</th>
         <th>songTitle</th>
-    </tr>
-    <tr>
         <th>songArtist</th>
-    </tr>
-    <tr>
-        <th>songAlbum</th>
-    </tr>
-    <tr>
-        <th>songRate</th>
-    </tr>
-    <tr>
-        <th>songTime</th> <!-- maybe in seconds idk -->
-    </tr>
-    <tr>
-        <th>playedAt</th> <!-- system time when the song was played -->
-    </tr>
-    <tr>
-        <th>songPlayedTimes</th>
-    </tr>
+		<th>songAlbum</th>
+		<th>songRate</th>
+		<th>songTime</th> <!-- maybe in seconds idk -->
+		<th>playedAt</th> <!-- system time when the song was played -->
+		<th>songPlayedTimes</th>
+	</tr>
 </table>
