@@ -17,8 +17,7 @@ A button to search for songs	<br>
 <u>A table with basicly everything below</u>
 
 <table name="playHistory"> <!-- or songHistory smth like dat-->
-	<tr>
-		<tr>playHistory</tr>
+		<th>playHistory</th>
 		<tr>
 			<th>songID</th>
 			<th>songTitle</th>
@@ -29,5 +28,4 @@ A button to search for songs	<br>
 			<th>playedAt</th> <!-- system time when the song was played -->
 			<th>songPlayedTimes</th>
 		</tr>
-	</tr>
 </table>
