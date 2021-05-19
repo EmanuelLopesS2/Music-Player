@@ -17,7 +17,7 @@ A button to search for songs	<br>
 <u>A table with basicly everything below</u>
 
 <table name="playHistory"> <!-- or songHistory smth like dat-->
-		<th>playHistory</th>
+	<th>playHistory(table)</th>
 		<tr>
 			<th>songID</th>
 			<th>songTitle</th>
