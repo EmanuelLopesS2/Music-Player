@@ -1,3 +1,21 @@
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+
 <h1>Things to do:</h1>
 
 Show the Environment.UserName
@@ -17,27 +35,27 @@ A button to search for songs
 
 <table name="playHistory"> <!-- or songHistory smt like dat-->
     <tr>
-        songID
+        <th>songID</th>
     </tr>
     <tr>
-        songTitle
+        <th>songTitle</th>
     </tr>
     <tr>
-        songArtist
+        <th>songArtist</th>
     </tr>
     <tr>
-        songAlbum
+        <th>songAlbum</th>
     </tr>
     <tr>
-        songRate
+        <th>songRate</th>
     </tr>
     <tr>
-        songTime <!-- maybe in seconds idk -->
+        <th>songTime</th> <!-- maybe in seconds idk -->
     </tr>
     <tr>
-        playedAt <!-- system time when the song was played -->
+        <th>playedAt</th> <!-- system time when the song was played -->
     </tr>
     <tr>
-        songPlayedTimes
+        <th>songPlayedTimes</th>
     </tr>
 </table>
